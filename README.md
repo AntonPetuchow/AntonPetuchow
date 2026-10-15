@@ -1,38 +1,21 @@
-# Anton Petuchow
+# Hi, I'm Anton
 
-Founder of [Nomado24](https://www.nomado24.de/en), a remote-work platform for Germany and the EU. I work across product development, full-stack implementation, and operations, with a growing focus on applied AI.
+I'm the founder of [Nomado24](https://www.nomado24.de/en), a remote-work platform for Germany and the EU. My background is in business, and I'm a beginner programmer.
 
-I'm interested in AI and software engineering opportunities where I can combine product ownership with building useful software.
+I built Nomado24 using Claude Code for almost all of the programming. My work has mainly been on the product and business side. I'm now learning the fundamentals so I can understand more of the code and build smaller projects myself.
 
-## What I'm building
+I'm interested in applied AI and in work that brings together products, customers, and software. For now, I'm focusing on Python, Linux, and Git, one step at a time.
 
-### Nomado24
+## Learning
 
-A web platform for discovering remote jobs, with an AI advisor and developer access to its job index.
+I completed Boot.dev's **Introduction to Python** course on **15 October 2026**. Next up are Linux basics and small Python projects I can write, explain, and change myself.
 
-- **Web application:** Next.js and React frontend, Node.js and Express backend, PostgreSQL with Prisma.
-- **AI features:** A conversational advisor with tools for job search, job details, and personalized matches.
-- **Developer interfaces:** A public REST API with an OpenAPI specification, plus an MCP server for AI clients.
-- **Delivery:** Docker, Azure Container Apps, and GitHub Actions, with pull request reviews and focused validation.
-- **Languages:** Product content in German, English, and French.
+<a href="https://www.boot.dev/certificates/66bb82c9-3239-4514-aa6e-b45f8ac0abd7">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/66bb82c9-3239-4514-aa6e-b45f8ac0abd7.jpeg?v=1792068526" alt="Boot.dev Introduction to Python course certificate, awarded to Anton Petuchow" width="420">
+</a>
 
-[Explore the product](https://www.nomado24.de/en) · [Developer documentation](https://www.nomado24.de/en/developers)
+## Nomado24
 
-## Public technical work
+You can [try the website](https://www.nomado24.de/en) or explore the public [API documentation](https://github.com/AntonPetuchow/nomado24-jobs-api) and [MCP documentation](https://github.com/AntonPetuchow/nomado24-mcp). The application code is private.
 
-| Project | What you can explore |
-| --- | --- |
-| [Nomado24 MCP](https://github.com/AntonPetuchow/nomado24-mcp) | Connection instructions, tool schemas, and example requests for job search, job details, and market statistics. |
-| [Nomado24 Jobs API](https://github.com/AntonPetuchow/nomado24-jobs-api) | REST API documentation, an OpenAPI specification, and JavaScript and Python usage examples. |
-
-The main application source is private. These public repositories document the interfaces to the product.
-
-## Current focus
-
-I'm deepening my Python and machine learning foundations alongside my work on Nomado24. My interests include tool-using AI applications, evaluation, and making model outputs useful in real products.
-
-I use AI coding tools in my development workflow, alongside code review, tests, and production checks.
-
-## Contact
-
-[anton.petuchow@nomado24.de](mailto:anton.petuchow@nomado24.de)
+[LinkedIn](https://www.linkedin.com/in/anton-petuchow/) · [Email](mailto:anton.petuchow@nomado24.de)
